@@ -3,14 +3,14 @@
 
 {👤} 15 years old
 
-{🗣️}>> bullet@crime.su
+{🗣️} bullet@crime.su
 
-{🐺} >> Learning 
+{🐺} Learning 
 
 
-Skills: 🐍 Python 🌐 HTML & CSS
+**Skills: 🐍 Python 🌐 HTML & CSS**
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
